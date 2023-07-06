@@ -17,7 +17,19 @@ We understand the importance of communication, which is why we've included an in
 </h5>
 
 <h1>Project Screenshots</h1>
-![homepage](https://github.com/Maga002/Library-App/blob/master/src/main/js/react-library/src/Images/PublicImages/homepage.png)
+<div>
+  
+<img src="https://github.com/Maga002/Library-App/blob/master/src/main/js/react-library/src/Images/PublicImages/homepage.png" style="width:23%">
+<img src="https://github.com/Maga002/Library-App/blob/master/src/main/js/react-library/src/Images/PublicImages/searchpage.png" style="width:25%">
+<img src="https://github.com/Maga002/Library-App/blob/master/src/main/js/react-library/src/Images/PublicImages/libraryservicepage.png" style="width:25%">
+<img src="https://github.com/Maga002/Library-App/blob/master/src/main/js/react-library/src/Images/PublicImages/bookdetails.png" style="width:25%">
+<img src="https://github.com/Maga002/Library-App/blob/master/src/main/js/react-library/src/Images/PublicImages/AdminAddBookPage.png" style="width:23%">
+<img src="https://github.com/Maga002/Library-App/blob/master/src/main/js/react-library/src/Images/PublicImages/userMessagesPage.png" style="width:25%">
+<img src="https://github.com/Maga002/Library-App/blob/master/src/main/js/react-library/src/Images/PublicImages/AdminEditBookPage.png" style="width:25%">
+<img src="https://github.com/Maga002/Library-App/blob/master/src/main/js/react-library/src/Images/PublicImages/adminMessagePage.png" style="width:25%">
+<img src="https://github.com/Maga002/Library-App/blob/master/src/main/js/react-library/src/Images/PublicImages/UserSubmitMessagePage.png" style="width:23%">
+
+</div>
 
 <h1>Tech Stack</h1>
 <ul>
