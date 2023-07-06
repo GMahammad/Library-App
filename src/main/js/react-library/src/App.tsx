@@ -52,10 +52,7 @@ const App = () => {
             <Route path="/checkout/:bookId">
               <BookCheckoutPage />
             </Route>
-            {/* <Route
-              path="/signup"
-              render={() => <SignUp/>}
-            /> */}
+         
               <Route
               path="/login"
               render={() => <LoginWidget config={oktaConfig} />}
