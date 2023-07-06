@@ -17,7 +17,7 @@ We understand the importance of communication, which is why we've included an in
 </h5>
 
 <h1>Project Screenshots</h1>
-![homepage](https://github.com/Maga002/Library-App/assets/72382783/4dee5f99-3933-4688-9bd9-577bb1872377)
+![homepage](https://github.com/Maga002/Library-App/blob/master/src/main/js/react-library/src/Images/PublicImages/homepage.png)
 
 <h1>Tech Stack</h1>
 <ul>
